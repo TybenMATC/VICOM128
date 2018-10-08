@@ -10,7 +10,19 @@ body {
   padding: 10px;
 }
 
+#texting {
+  float: right;
+}
+
 #page-header {
   text-align: center;
   border-bottom: 1px solid black;
+}
+
+#page-header h3 {
+  font-style: italic;
+}
+
+#page-header h1 {
+  text-decoration: underline;
 }
