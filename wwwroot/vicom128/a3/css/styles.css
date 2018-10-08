@@ -1,0 +1,16 @@
+html {
+  background-color: gray;
+  width: 80%;
+  margin-left: 10%;
+}
+
+body {
+  background-color: darkgray;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#page-header {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
