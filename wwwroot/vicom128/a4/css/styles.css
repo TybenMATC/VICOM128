@@ -1,0 +1,65 @@
+
+/* Global styles */
+
+html {
+  width: 80%;
+  margin-left: 10%;
+  background-color: darkgray;
+  font-family: 'Open Sans', sans-serif, serif;
+}
+
+.main-title {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.brief-description {
+  text-align: center;
+  font-weight: bold;
+}
+
+.p-title {
+  color: #235140;
+}
+
+.paragraph {
+  font-size: 18px;
+  text-indent: 40px;
+}
+
+.navbar {
+  text-align: center;
+  font-size: 20px;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #444444;
+}
+
+.navbar li a.active {
+  color: #2979a0;
+}
+
+/* Index styling */
+
+#s-img {
+  float: right;
+}
+
+#s-img img {
+  width: 350px;
+  height: 200px;
+  float: right;
+  border: 5px solid black;
+  border-radius 10px;
+}
+
+#s-1 {
+  position: relative;
+}
